@@ -8,6 +8,7 @@ public class PracticeSat2 {
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("Hello world first person");
+         System.out.println("Hello world second person");
     }
     
 }
