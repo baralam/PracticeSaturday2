@@ -9,6 +9,7 @@ public class PracticeSat2 {
         System.out.println("Hello world");
         System.out.println("Hello world first person");
          System.out.println("Hello world second person");
+          System.out.println("Hello world third person");
     }
     
 }
